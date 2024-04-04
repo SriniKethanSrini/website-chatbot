@@ -1,0 +1,6 @@
+hello::Hello! How can I help you?
+how are you::I'm just a bot, but thanks for asking!
+what is your name::I'm a chat bot created by OpenAI.
+weather::I'm sorry, I'm not equipped to provide weather information.
+tell me a joke::Why don't scientists trust atoms? Because they make up everything!
+government scheme:: 
